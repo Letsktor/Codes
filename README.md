@@ -11,13 +11,14 @@ A hazik nevű mappa tartalam:
                              
                              -prim.c: eldönti egy egész számról ,hogy prím szám -e?
                              
-                             -vonal.c kirajzol egy vonalat a képernyőre
+                             -vonal.c kirajzol egy vonalat a képernyőre.
 
 A hazik2 nevű mappa tartalma:
                             
                             
                             -diamond.c: 2 azonos magasságú háromszögből rajzol ki egy gyémánt formát.
-                            -gomb.c: a gomb sugarát kéri be a felhasználótól majd ebből kiszámolja a gömb térfogatát
-                            -teglalap.c
+                            -gomb.c: a gomb sugarát kéri be a felhasználótól majd ebből kiszámolja a gömb térfogatát és felszínét.
+                            -kor.c: a sugár hosszát kéri be a felhasználótól ,majd ennek segítségével kiszámolja a területét és kerületét az adott körnek.
+                            -mariov3.c:
                             
                             
