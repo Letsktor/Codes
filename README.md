@@ -14,5 +14,10 @@ A hazik nevű mappa tartalam:
                              -vonal.c kirajzol egy vonalat a képernyőre
 
 A hazik2 nevű mappa tartalma:
-
+                            
+                            
+                            -diamond.c: 2 azonos magasságú háromszögből rajzol ki egy gyémánt formát.
+                            -gomb.c
+                            -teglalap.c
+                            
                             
