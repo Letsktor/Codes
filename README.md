@@ -24,6 +24,6 @@ A hazik3 nevű mappa tartalma:
                              -megrajz.c: A felhasználótól kérbe három egészszámot amelyekről eldönti ,hogy szerkkeszthetőe belőle egy háromszög.
                              -poz.c: pozítívá teszi egy int tömb összes elemét.
                              -rendezette.c: Eldönti ,hogy egy int tömb értékszerinti növekvően sorba van e rendezve.
-                             -vesszo.c:
+                             -vesszo.c: Vesszővel elválasztva írj ki egy int tömb elmeit a képernyőre.
                               
                             
