@@ -29,7 +29,7 @@ A hazik3 nevű mappa tartalma:
  A hazik4 nevű mappa tartalma: 
                                 
                                 -count.c:Megszámolja ,hogy egy szóban hány betűvan az adott betűből.
-                                -finder.c:
+                                -finder.c:Megkereső egy szóvan az adott betűt.
                                 -fizzbuzz.c: 100 eldönti a számokról ,hogy oszthatóak e maradéktalanul hárommal ,ha igen kiírja ,hogy fizz , 5-el akkor kiírja ,hogy buzz , ha mindkettővel akkor fizzbuzz.
                                 -match.c:
                                
