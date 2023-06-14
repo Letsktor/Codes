@@ -13,17 +13,17 @@ A hazik2 nevű mappa tartalma:
                             
                             
                             -diamond.c: 2 azonos magasságú háromszögből rajzol ki egy gyémánt formát.
-                            -gomb.c: a gomb sugarát kéri be a felhasználótól majd ebből kiszámolja a gömb térfogatát és felszínét.
+                            -gomb.c: a gömb sugarát kéri be a felhasználótól majd ebből kiszámolja a gömb térfogatát és felszínét.
                             -kor.c: a sugár hosszát kéri be a felhasználótól ,majd ennek segítségével kiszámolja a területét és kerületét az adott körnek.
                             -mariov3.c: egy "mario pályát" generál a felhasználótól bekért mgasságú háromszögekből.
                         
 A hazik3 nevű mappa tartalma:   
                               
-                             -felho.c: felhőkkarcolók magasságának különbség összegét határozza meg , a felhőkarcolók magassága egy előre meghatározott tömben van.
-                             -leg.c:
-                             -megrajz.c
-                             -poz.c
-                             rendezette.c
-                             vesszo.c
+                             -felho.c: felhőkarcolók magasságának különbség összegét határozza meg , a felhőkarcolók magassága egy előre meghatározott tömben van.
+                             -leg.c: meghatározza egy tömb legnagyobb és legkisebb elemét.
+                             -megrajz.c:
+                             -poz.c:
+                             -rendezette.c:
+                             -vesszo.c:
                               
                             
