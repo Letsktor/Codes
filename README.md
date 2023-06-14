@@ -12,3 +12,7 @@ A hazik nevű mappa tartalam:
                              -prim.c: eldönti egy egész számról ,hogy prím szám -e?
                              
                              -vonal.c kirajzol egy vonalat a képernyőre
+
+A hazik2 nevű mappa tartalma:
+
+                            
