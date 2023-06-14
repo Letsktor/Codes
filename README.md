@@ -18,6 +18,12 @@ A hazik2 nevű mappa tartalma:
                             -mariov3.c: egy "mario pályát" generál a felhasználótól bekért mgasságú háromszögekből.
                         
 A hazik3 nevű mappa tartalma:   
-
+                              
+                             -felho.c: felhőkkarcolók magasságának különbség összegét határozza meg , a felhőkarcolók magassága egy előre meghatározott tömben van.
+                             -leg.c:
+                             -megrajz.c
+                             -poz.c
+                             rendezette.c
+                             vesszo.c
                               
                             
