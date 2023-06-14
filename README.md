@@ -25,5 +25,14 @@ A hazik3 nevű mappa tartalma:
                              -poz.c: pozítívá teszi egy int tömb összes elemét.
                              -rendezette.c: Eldönti ,hogy egy int tömb értékszerinti növekvően sorba van e rendezve.
                              -vesszo.c: Vesszővel elválasztva írj ki egy int tömb elmeit a képernyőre.
+ 
+ A hazik4 nevű mappa tartalma: 
+                                
+                                -count.c:
+                                -finder.c:
+                                -fizzbuzz.c:
+                                -match.c:
+                                -prog1.c:
+                               
                               
                             
