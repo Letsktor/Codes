@@ -28,11 +28,10 @@ A hazik3 nevű mappa tartalma:
  
  A hazik4 nevű mappa tartalma: 
                                 
-                                -count.c:
+                                -count.c:Megszámolja ,hogy egy szóban hány betűvan az adott betűből.
                                 -finder.c:
                                 -fizzbuzz.c:
                                 -match.c:
-                                -prog1.c:
                                
                               
                             
