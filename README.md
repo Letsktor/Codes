@@ -22,7 +22,7 @@ A hazik3 nevű mappa tartalma:
                              -felho.c: felhőkarcolók magasságának különbség összegét határozza meg , a felhőkarcolók magassága egy előre meghatározott tömben van.
                              -leg.c: meghatározza egy tömb legnagyobb és legkisebb elemét.
                              -megrajz.c: A felhasználótól kérbe három egészszámot amelyekről eldönti ,hogy szerkkeszthetőe belőle egy háromszög.
-                             -poz.c:
+                             -poz.c: pozítívá teszi egy int tömb összes elemét.
                              -rendezette.c:
                              -vesszo.c:
                               
